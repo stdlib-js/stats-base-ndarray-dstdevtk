@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-08-30)
+## Unreleased (2026-09-01)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`7f6bdb8`](https://github.com/stdlib-js/stdlib/commit/7f6bdb83e2293a2f8491934ce00b58045d4a6178) - **docs:** update Markdown equation elements _(by stdlib-bot)_
 -   [`510c927`](https://github.com/stdlib-js/stdlib/commit/510c9272f9a28568b5e965317b462cedb6b7da85) - **docs:** update Markdown equation elements _(by stdlib-bot)_
 -   [`e7fb241`](https://github.com/stdlib-js/stdlib/commit/e7fb2413b825114ae024b3128ff28873da5bb9c9) - **docs:** update Markdown equation SVGs _(by stdlib-bot)_
 -   [`d4eb097`](https://github.com/stdlib-js/stdlib/commit/d4eb097923959db8db96c1920a19de01c71c63a8) - **feat:** add C implementation for `stats/base/ndarray/dstdevtk` [(#14712)](https://github.com/stdlib-js/stdlib/pull/14712) _(by Ujjwal Verma)_
